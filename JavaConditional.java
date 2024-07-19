@@ -3,41 +3,6 @@ import java.util.*;
 public class JavaConditional {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-//        System.out.print("Enter your age :");
-//        int age = s.nextInt();
-////        int age = 16;
-//        if (age >= 18){
-//            System.out.println("Adult : Vote, Drive");
-//        }
-//
-//        else if(age >= 13 && age <= 16){
-//            System.out.println("Teenager");
-//        }
-//
-//        else{
-//            System.out.println("Not adult");
-//        }
-
-//        int a =100;
-//        int b =18;
-//
-//        if(a >= b){
-//            System.out.println("a is largest of 2");
-//        }
-//        else{
-//            System.out.println("b is largest of 2");
-//        }
-
-//        System.out.print("Enter Num to check that num is even or odd :");
-//        float num = s.nextFloat();
-//
-//        if(num % 2 == 0){
-//            System.out.println("Num is even");
-//        }
-//        else {
-//            System.out.println("Num is odd");
-//        }
-//********TAX CALCULATOR******
         System.out.print("Enter your salary per annum :");
         int Income = s.nextInt();
         int tax = 0;
